@@ -1,4 +1,4 @@
-# CMPUT 291 Project 1 - Fall 2023  
+# CMPUT 291 Project 2 - Fall 2023  
 Group member names and ccids (3-4 members)  
   ccid1, name1  
   ccid2, name2  
